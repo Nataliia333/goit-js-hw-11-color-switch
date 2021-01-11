@@ -37,4 +37,4 @@ function stopСhange() {
 }
 
 refs.start.addEventListener('click', startСhange);
-refs.start.addEventListener('click', stopСhange);
+refs.stop.addEventListener('click', stopСhange);
